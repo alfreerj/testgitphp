@@ -20,6 +20,8 @@ setlocale(LC_TIME, "ru_RU.utf8");
     тестируем работу системы контроля версий git
     <br>
     This page uses frames. The current browser you are using does not support frames.</p>
+	<br><br> Вносим изменение № 1.
+	<br> добавляем 2 строки в файл index.php
     <?php
 
 	?>
