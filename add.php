@@ -5,7 +5,7 @@
 <?php
 
 /**
-* @copyright	АМ (C) 2014
+* @copyright	АМ (C) 2017
 */
 
 date_default_timezone_set('Europe/Moscow');
@@ -19,12 +19,11 @@ setlocale(LC_TIME, "ru_RU.utf8");
     <br>
     тестируем работу системы контроля версий git
     <br>
-    This page uses frames. The current browser you are using does not support frames.</p>
-	<br><br> Вносим изменение № 1.
-	<br> добавляем 2 строки в файл index.php
+    <br><br> Вносим изменение № 4.
+	<br> добавляем новый файл add.php
     <?php
     echo "Новые изменения, спустя 3 года.";
 	?>
-        <br> добавленеа новая строка после add .
+        <br>
     </body>
 </html>
